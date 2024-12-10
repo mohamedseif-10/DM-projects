@@ -106,10 +106,10 @@ Churn                 int64
 | **0**              |  1119   |   433   |
 | **1**              |   101   |  1446   |
 
-- **True Negatives (0,0): 1119
-- **False Positives (0,1): 433
-- **False Negatives (1,0): 101
-- **True Positives (1,1): 1446
+- **True Negatives (0,0): 1119**
+- **False Positives (0,1): 433**
+- **False Negatives (1,0): 101**
+- **True Positives (1,1): 1446**
 
 ### Classification Report
 ```plaintext
