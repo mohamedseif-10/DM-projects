@@ -160,24 +160,6 @@ weighted avg       0.84      0.83      0.83      3099
 - Evaluated performance on the testing set using metrics:
   - **Accuracy**: 0.83
   - **Weighted F1-Score**: 0.83
-- Plotted:
-  - Confusion matrix.
-  - ROC curve and AUC score.
-  - Precision-recall curve.
-
----
-
-## Contributions
-
-- [Your Name]: Data preprocessing, feature engineering, and logistic regression implementation.
-- [Collaborator's Name]: Visualization, analysis, and documentation.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ---
 
 ## Acknowledgments
